@@ -1,0 +1,7 @@
+{
+  "name": "timeverse/timeverse",
+  "version": "0.0.0",
+  "docs": "docs/index.md",
+  "summary": "A 3D interactive wormhole tunnel exploration application built with Next.js 15, React 19, and React Three Fiber, featuring procedurally-generated infinite tunnels, first/third-person camera modes, warp/boost system, and a HUD overlay.",
+  "private": true
+}
